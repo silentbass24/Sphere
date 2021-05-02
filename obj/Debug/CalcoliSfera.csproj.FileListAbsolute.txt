@@ -1,0 +1,10 @@
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\bin\Debug\PaoloCiolaProvaFinale.exe.config
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\bin\Debug\PaoloCiolaProvaFinale.exe
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\bin\Debug\PaoloCiolaProvaFinale.pdb
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\CalcoliSfera.csprojAssemblyReference.cache
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\PaoloCiolaProvaFinale.Form1.resources
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\PaoloCiolaProvaFinale.Properties.Resources.resources
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\CalcoliSfera.csproj.GenerateResource.cache
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\CalcoliSfera.csproj.CoreCompileInputs.cache
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\PaoloCiolaProvaFinale.exe
+C:\Users\silen\Documents\CorsoCisita\C#\Verifica fine modulo\PaoloCiolaProvaFinale\obj\Debug\PaoloCiolaProvaFinale.pdb
